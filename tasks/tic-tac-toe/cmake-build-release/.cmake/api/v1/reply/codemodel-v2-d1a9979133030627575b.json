@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "tic-tac-toe",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "opt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opt-Release-6227daabdcd69021f355.json",
+					"name" : "opt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "runner::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-runner-Release-8c0c933dd165fdc535e6.json",
+					"name" : "runner",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/tic-tac-toe/cmake-build-release",
+		"source" : "/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/tic-tac-toe"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

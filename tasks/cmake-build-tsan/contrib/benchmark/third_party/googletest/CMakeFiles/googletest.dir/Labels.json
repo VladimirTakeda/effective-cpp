@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-tsan/contrib/benchmark/third_party/googletest/CMakeFiles/googletest"
+		},
+		{
+			"file" : "/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-tsan/contrib/benchmark/third_party/googletest/CMakeFiles/googletest.rule"
+		},
+		{
+			"file" : "/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-tsan/contrib/benchmark/third_party/googletest/CMakeFiles/googletest-complete.rule"
+		},
+		{
+			"file" : "/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-tsan/contrib/benchmark/third_party/googletest/src/googletest-stamp/googletest-build.rule"
+		},
+		{
+			"file" : "/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-tsan/contrib/benchmark/third_party/googletest/src/googletest-stamp/googletest-configure.rule"
+		},
+		{
+			"file" : "/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-tsan/contrib/benchmark/third_party/googletest/src/googletest-stamp/googletest-download.rule"
+		},
+		{
+			"file" : "/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-tsan/contrib/benchmark/third_party/googletest/src/googletest-stamp/googletest-install.rule"
+		},
+		{
+			"file" : "/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-tsan/contrib/benchmark/third_party/googletest/src/googletest-stamp/googletest-mkdir.rule"
+		},
+		{
+			"file" : "/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-tsan/contrib/benchmark/third_party/googletest/src/googletest-stamp/googletest-patch.rule"
+		},
+		{
+			"file" : "/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-tsan/contrib/benchmark/third_party/googletest/src/googletest-stamp/googletest-test.rule"
+		},
+		{
+			"file" : "/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-tsan/contrib/benchmark/third_party/googletest/src/googletest-stamp/googletest-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest"
+		],
+		"name" : "googletest"
+	}
+}

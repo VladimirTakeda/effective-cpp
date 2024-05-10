@@ -1,0 +1,4 @@
+/Users/vovatakeda/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=/Users/vovatakeda/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -DCMAKE_BUILD_TYPE=ASAN -G Ninja -S /Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cache -B /Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cache/cmake-build-asan
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cache/cmake-build-asan

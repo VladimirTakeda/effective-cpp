@@ -1,0 +1,21 @@
+# ninja log v5
+37	46	1714597078471684317	src/googletest-stamp/googletest-configure	fe7b6129665b6181
+9	18	1714597078444643402	src/googletest-stamp/googletest-download	3d5fba77c332afe0
+0	9	1714597078435464861	src/googletest-stamp/googletest-mkdir	26a179c609ec7a84
+46	55	1714597078481165649	src/googletest-stamp/googletest-build	4fe4e698492bb04f
+19	28	1714597078453753026	src/googletest-stamp/googletest-update	2bfc8b6c74a1ad6e
+0	9	1714597078435464861	/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-release/contrib/benchmark/third_party/googletest/src/googletest-stamp/googletest-mkdir	26a179c609ec7a84
+37	46	1714597078471684317	/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-release/contrib/benchmark/third_party/googletest/src/googletest-stamp/googletest-configure	fe7b6129665b6181
+28	37	1714597078462783609	src/googletest-stamp/googletest-patch	678da887c5841942
+9	18	1714597078444643402	/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-release/contrib/benchmark/third_party/googletest/src/googletest-stamp/googletest-download	3d5fba77c332afe0
+28	37	1714597078462783609	/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-release/contrib/benchmark/third_party/googletest/src/googletest-stamp/googletest-patch	678da887c5841942
+19	28	1714597078453753026	/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-release/contrib/benchmark/third_party/googletest/src/googletest-stamp/googletest-update	2bfc8b6c74a1ad6e
+64	72	1714597078498292940	src/googletest-stamp/googletest-test	b6da5e69a852eb23
+64	72	1714597078498292940	/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-release/contrib/benchmark/third_party/googletest/src/googletest-stamp/googletest-test	b6da5e69a852eb23
+46	55	1714597078481165649	/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-release/contrib/benchmark/third_party/googletest/src/googletest-stamp/googletest-build	4fe4e698492bb04f
+55	64	1714597078489786440	src/googletest-stamp/googletest-install	393926acfbadc0b0
+55	64	1714597078489786440	/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-release/contrib/benchmark/third_party/googletest/src/googletest-stamp/googletest-install	393926acfbadc0b0
+72	84	1714597078510091773	/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-release/contrib/benchmark/third_party/googletest/CMakeFiles/googletest-complete	e04382302de98990
+72	84	1714597078510091773	CMakeFiles/googletest-complete	e04382302de98990
+72	84	1714597078510091773	src/googletest-stamp/googletest-done	e04382302de98990
+72	84	1714597078510091773	/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-release/contrib/benchmark/third_party/googletest/src/googletest-stamp/googletest-done	e04382302de98990

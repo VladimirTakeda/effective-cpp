@@ -1,0 +1,3 @@
+/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cache/cmake-build-asan/CMakeFiles/Cache.dir
+/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cache/cmake-build-asan/CMakeFiles/edit_cache.dir
+/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cache/cmake-build-asan/CMakeFiles/rebuild_cache.dir

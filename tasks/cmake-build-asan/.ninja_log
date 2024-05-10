@@ -1,0 +1,18 @@
+# ninja log v5
+4	620	1710615198939331278	lru-cache/CMakeFiles/test_lru_cache.dir/test.cpp.o	d0a2e75907c8f046
+389	445	1710351381434385423	test_intrusive_list	6de073c06ef04de3
+3	556	1709424951951116414	set_allocator/CMakeFiles/test_set_allocator.dir/test.cpp.o	c33031f41aa00eae
+620	677	1710615198998236639	test_lru_cache	4684f6aaaf24365f
+3	389	1710351381377216472	intrusive-list/CMakeFiles/test_intrusive_list.dir/test.cpp.o	7a02556a8f884119
+4	502	1709490245201671781	static_allocator/CMakeFiles/test_static_allocator.dir/test.cpp.o	66d00028dd499ff1
+4	4462	1710614890212529854	CMakeFiles/contrib_catch_main.dir/contrib/catch/catch_main.cpp.o	9d7b001799f7f059
+3	443	1710613814093381914	cow-vector/CMakeFiles/test_cow_vector.dir/test.cpp.o	58fadb620e2473f9
+502	559	1709490245261607522	test_static_allocator	98e030a9350f7440
+0	391	1709419944118008546	multiplication/CMakeFiles/test_multiplication.dir/test.cpp.o	7316418651677d9c
+443	509	1710613814161025054	test_cow_vector	e1193d55553c63e1
+557	624	1709424952021089801	test_set_allocator	2b86493330b0c8a8
+4108	4185	1709419947912823745	test_multiplication	ee830c720ffa5f4e
+4462	4527	1710614890292493000	libcontrib_catch_main.a	13bfabe39db4e1b
+0	71	1715338268472037300	build.ninja	4755bdcc1bba9cea
+787	875	1710881494757709042	test_deque	3ec55b2a8e69b84b
+3	787	1710881494666202266	deque/CMakeFiles/test_deque.dir/test.cpp.o	8def1cfd55d44915

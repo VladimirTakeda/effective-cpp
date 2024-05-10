@@ -1,0 +1,5 @@
+# ninja log v5
+3	204	1711566972526316229	CMakeFiles/strategy.dir/my_strategy/my_strategy.cpp.o	183c4af7bde79872
+204	231	1711566972555280383	libstrategy.dylib	696a667a3afd9501
+0	227	1711567038089640287	CMakeFiles/utility.dir/utility/main.cpp.o	da592988f3e3b13a
+227	252	1711567038115968057	utility	b587959a8020f5a

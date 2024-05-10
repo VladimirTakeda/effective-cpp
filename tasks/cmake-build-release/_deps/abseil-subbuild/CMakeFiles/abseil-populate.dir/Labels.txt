@@ -1,0 +1,14 @@
+# Target labels
+ abseil-populate
+# Source files and their labels
+/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-release/_deps/abseil-subbuild/CMakeFiles/abseil-populate
+/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-release/_deps/abseil-subbuild/CMakeFiles/abseil-populate.rule
+/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-release/_deps/abseil-subbuild/CMakeFiles/abseil-populate-complete.rule
+/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-release/_deps/abseil-subbuild/abseil-populate-prefix/src/abseil-populate-stamp/abseil-populate-build.rule
+/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-release/_deps/abseil-subbuild/abseil-populate-prefix/src/abseil-populate-stamp/abseil-populate-configure.rule
+/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-release/_deps/abseil-subbuild/abseil-populate-prefix/src/abseil-populate-stamp/abseil-populate-download.rule
+/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-release/_deps/abseil-subbuild/abseil-populate-prefix/src/abseil-populate-stamp/abseil-populate-install.rule
+/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-release/_deps/abseil-subbuild/abseil-populate-prefix/src/abseil-populate-stamp/abseil-populate-mkdir.rule
+/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-release/_deps/abseil-subbuild/abseil-populate-prefix/src/abseil-populate-stamp/abseil-populate-patch.rule
+/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-release/_deps/abseil-subbuild/abseil-populate-prefix/src/abseil-populate-stamp/abseil-populate-test.rule
+/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-release/_deps/abseil-subbuild/abseil-populate-prefix/src/abseil-populate-stamp/abseil-populate-update.rule

@@ -1,0 +1,27 @@
+/Users/vovatakeda/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=/Users/vovatakeda/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -DCMAKE_BUILD_TYPE=ASAN -G Ninja -S /Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks -B /Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-asan
+-- Google Benchmark version: v1.8.3-55-gb04cec1b, normalized to 1.8.3.55
+-- Enabling additional flags: -DINCLUDE_DIRECTORIES=/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/contrib/benchmark/include
+-- Performing Test HAVE_THREAD_SAFETY_ATTRIBUTES -- success
+-- Performing Test HAVE_STD_REGEX -- success
+-- Performing Test HAVE_GNU_POSIX_REGEX -- failed to compile
+-- Performing Test HAVE_POSIX_REGEX -- success
+-- Performing Test HAVE_STEADY_CLOCK -- success
+-- Performing Test HAVE_PTHREAD_AFFINITY -- failed to compile
+CMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 3.5 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- Looking for Google Test sources
+-- Looking for Google Test sources in /Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/contrib/googletest
+-- Found Google Test in /Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/contrib/googletest
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-asan/contrib/benchmark/third_party/googletest
+ninja: no work to do.
+-- Configuring done (0.3s)
+-- Generating done (0.1s)
+-- Build files have been written to: /Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-asan

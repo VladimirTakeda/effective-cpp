@@ -1,0 +1,7 @@
+# ninja log v5
+305	332	1711573959824830162	runner	5d1bdfb7c733b985
+1	47	1711719407326970904	build.ninja	a750fe49ba4e6f66
+4	305	1711573959796413811	CMakeFiles/runner.dir/utility/main.cpp.o	34544880df5cd49c
+3	219	1711567270142475625	CMakeFiles/utility.dir/utility/main.cpp.o	548d7497e11f70c5
+219	244	1711567270169252438	utility	4d192ea690ec50f3
+3	184	1711573657828891790	CMakeFiles/runner.dir/my_strategy/my_strategy.cpp.o	640c4eb7ef2830aa

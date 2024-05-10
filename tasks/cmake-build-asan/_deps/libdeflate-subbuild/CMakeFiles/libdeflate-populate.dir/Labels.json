@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-asan/_deps/libdeflate-subbuild/CMakeFiles/libdeflate-populate"
+		},
+		{
+			"file" : "/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-asan/_deps/libdeflate-subbuild/CMakeFiles/libdeflate-populate.rule"
+		},
+		{
+			"file" : "/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-asan/_deps/libdeflate-subbuild/CMakeFiles/libdeflate-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-asan/_deps/libdeflate-subbuild/libdeflate-populate-prefix/src/libdeflate-populate-stamp/libdeflate-populate-build.rule"
+		},
+		{
+			"file" : "/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-asan/_deps/libdeflate-subbuild/libdeflate-populate-prefix/src/libdeflate-populate-stamp/libdeflate-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-asan/_deps/libdeflate-subbuild/libdeflate-populate-prefix/src/libdeflate-populate-stamp/libdeflate-populate-download.rule"
+		},
+		{
+			"file" : "/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-asan/_deps/libdeflate-subbuild/libdeflate-populate-prefix/src/libdeflate-populate-stamp/libdeflate-populate-install.rule"
+		},
+		{
+			"file" : "/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-asan/_deps/libdeflate-subbuild/libdeflate-populate-prefix/src/libdeflate-populate-stamp/libdeflate-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-asan/_deps/libdeflate-subbuild/libdeflate-populate-prefix/src/libdeflate-populate-stamp/libdeflate-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-asan/_deps/libdeflate-subbuild/libdeflate-populate-prefix/src/libdeflate-populate-stamp/libdeflate-populate-test.rule"
+		},
+		{
+			"file" : "/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-asan/_deps/libdeflate-subbuild/libdeflate-populate-prefix/src/libdeflate-populate-stamp/libdeflate-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libdeflate-populate"
+		],
+		"name" : "libdeflate-populate"
+	}
+}

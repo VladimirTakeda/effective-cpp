@@ -1,0 +1,21 @@
+# ninja log v5
+56	66	1714597078637972181	src/googletest-stamp/googletest-build	3b72cf100d005745
+0	12	1714597078583829601	/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-tsan/contrib/benchmark/third_party/googletest/src/googletest-stamp/googletest-mkdir	bc462b16af11062a
+0	12	1714597078583829601	src/googletest-stamp/googletest-mkdir	bc462b16af11062a
+24	34	1714597078605947975	/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-tsan/contrib/benchmark/third_party/googletest/src/googletest-stamp/googletest-update	306d45f8e4f88a0d
+12	24	1714597078596106892	src/googletest-stamp/googletest-download	ce61dabec69a3053
+86	103	1714597078674763804	/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-tsan/contrib/benchmark/third_party/googletest/src/googletest-stamp/googletest-done	9a9456ca7d694423
+45	55	1714597078627360890	src/googletest-stamp/googletest-configure	caaaccef32890f59
+12	24	1714597078596106892	/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-tsan/contrib/benchmark/third_party/googletest/src/googletest-stamp/googletest-download	ce61dabec69a3053
+66	76	1714597078647768556	/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-tsan/contrib/benchmark/third_party/googletest/src/googletest-stamp/googletest-install	48b1b1e8fb506367
+66	76	1714597078647768556	src/googletest-stamp/googletest-install	48b1b1e8fb506367
+56	66	1714597078637972181	/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-tsan/contrib/benchmark/third_party/googletest/src/googletest-stamp/googletest-build	3b72cf100d005745
+76	86	1714597078658473013	src/googletest-stamp/googletest-test	7a855b1d6daaed4b
+76	86	1714597078658473013	/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-tsan/contrib/benchmark/third_party/googletest/src/googletest-stamp/googletest-test	7a855b1d6daaed4b
+86	103	1714597078674763804	/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-tsan/contrib/benchmark/third_party/googletest/CMakeFiles/googletest-complete	9a9456ca7d694423
+86	103	1714597078674763804	CMakeFiles/googletest-complete	9a9456ca7d694423
+34	45	1714597078616870641	/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-tsan/contrib/benchmark/third_party/googletest/src/googletest-stamp/googletest-patch	b910940096f83e4
+45	55	1714597078627360890	/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-tsan/contrib/benchmark/third_party/googletest/src/googletest-stamp/googletest-configure	caaaccef32890f59
+34	45	1714597078616870641	src/googletest-stamp/googletest-patch	b910940096f83e4
+24	34	1714597078605947975	src/googletest-stamp/googletest-update	306d45f8e4f88a0d
+86	103	1714597078674763804	src/googletest-stamp/googletest-done	9a9456ca7d694423

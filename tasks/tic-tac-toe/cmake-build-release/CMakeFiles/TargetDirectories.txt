@@ -1,0 +1,4 @@
+/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/tic-tac-toe/cmake-build-release/CMakeFiles/opt.dir
+/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/tic-tac-toe/cmake-build-release/CMakeFiles/runner.dir
+/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/tic-tac-toe/cmake-build-release/CMakeFiles/edit_cache.dir
+/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/tic-tac-toe/cmake-build-release/CMakeFiles/rebuild_cache.dir

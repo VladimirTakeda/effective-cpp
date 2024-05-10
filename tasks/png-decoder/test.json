@@ -1,0 +1,21 @@
+{
+  "score": -299,
+  "targets": [
+    "Release",
+    "ASAN"
+  ],
+  "orig_files": [
+    "CMakeLists.txt",
+    "libpng_wrappers.h",
+    "test.cpp",
+    "test_commons.hpp",
+    "tests/1.png",
+    "tests/alpha_grayscale.png",
+    "tests/crc.png",
+    "tests/inter.png",
+    "tests/lenna_grayscale.png",
+    "tests/lenna_index.png",
+    "tests/logo.png",
+    "tests/logo_alpha.png"
+  ]
+}

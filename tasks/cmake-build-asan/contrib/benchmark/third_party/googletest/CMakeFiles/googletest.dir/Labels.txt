@@ -1,0 +1,14 @@
+# Target labels
+ googletest
+# Source files and their labels
+/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-asan/contrib/benchmark/third_party/googletest/CMakeFiles/googletest
+/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-asan/contrib/benchmark/third_party/googletest/CMakeFiles/googletest.rule
+/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-asan/contrib/benchmark/third_party/googletest/CMakeFiles/googletest-complete.rule
+/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-asan/contrib/benchmark/third_party/googletest/src/googletest-stamp/googletest-build.rule
+/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-asan/contrib/benchmark/third_party/googletest/src/googletest-stamp/googletest-configure.rule
+/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-asan/contrib/benchmark/third_party/googletest/src/googletest-stamp/googletest-download.rule
+/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-asan/contrib/benchmark/third_party/googletest/src/googletest-stamp/googletest-install.rule
+/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-asan/contrib/benchmark/third_party/googletest/src/googletest-stamp/googletest-mkdir.rule
+/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-asan/contrib/benchmark/third_party/googletest/src/googletest-stamp/googletest-patch.rule
+/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-asan/contrib/benchmark/third_party/googletest/src/googletest-stamp/googletest-test.rule
+/Users/vovatakeda/Desktop/CPlusPlusProjects/effective-cpp/tasks/cmake-build-asan/contrib/benchmark/third_party/googletest/src/googletest-stamp/googletest-update.rule
